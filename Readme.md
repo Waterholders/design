@@ -6,8 +6,6 @@ Central library for design files (Sketch, Illustrator, and SVG's)
 ## Contents
 
 ### cbord official library.sketch
-
-#### What is this?
 This is the main design file for CBORD which is meant to be used as a linked Sketch App library. It contains symbols, text styles, and layer styles to aid in the construction of high-fidelity prototypes. It represents our commitment to normalize our design choices in a highly reusable way.  
 
 #### Why use this?
