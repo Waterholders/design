@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "CE514754-4B17-444F-B4D6-6FDD8BD25584",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "79BE0CC7-77F9-45DC-8D58-882FCD902FD6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "42F44E28-01C9-4A9D-8048-6DFD33622B7D",
+    "height": 20,
+    "width": 96,
+    "x": 0,
+    "y": 59
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F4EB1FA9-B89A-4924-BF2F-02D61C8EFC67"
+    },
+    {
+      "class": "text",
+      "id": "79394139-1250-4C73-AC64-D6F5F8A33885"
+    }
+  ],
+  "name": "sodium",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "51BF3505-971D-4F28-875F-9A1F407EC418",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.322010869565217,
+      "type": 0
+    },
+    "do_objectID": "BB5134B1-6D59-4738-A8A1-39FB7106A5C4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

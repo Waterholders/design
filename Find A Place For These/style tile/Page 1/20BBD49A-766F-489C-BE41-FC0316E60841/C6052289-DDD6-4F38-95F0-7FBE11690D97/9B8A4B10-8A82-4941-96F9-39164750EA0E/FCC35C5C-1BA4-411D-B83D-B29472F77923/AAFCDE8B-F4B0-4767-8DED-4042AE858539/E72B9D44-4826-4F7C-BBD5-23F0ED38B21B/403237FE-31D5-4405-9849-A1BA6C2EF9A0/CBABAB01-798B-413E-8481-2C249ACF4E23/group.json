@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "CBABAB01-798B-413E-8481-2C249ACF4E23",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "99CCBC0F-0643-4A7C-846F-5C4138324459",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "540CCCF6-2574-453C-A95C-1C97A1BC4D15",
+    "height": 20,
+    "width": 75,
+    "x": 64,
+    "y": 34.17238749046529
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "067145A8-0DE3-475B-AE23-4BED00CA6E8D"
+    },
+    {
+      "class": "text",
+      "id": "67EEFC7A-117D-4F7A-939E-78807249588F"
+    }
+  ],
+  "name": "sugar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "9EDD03FA-EDA9-4A9E-85A9-5C52CFED4200",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.322010869565217,
+      "type": 0
+    },
+    "do_objectID": "0DA56233-83A0-40EF-ACA1-29685AAF42C4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

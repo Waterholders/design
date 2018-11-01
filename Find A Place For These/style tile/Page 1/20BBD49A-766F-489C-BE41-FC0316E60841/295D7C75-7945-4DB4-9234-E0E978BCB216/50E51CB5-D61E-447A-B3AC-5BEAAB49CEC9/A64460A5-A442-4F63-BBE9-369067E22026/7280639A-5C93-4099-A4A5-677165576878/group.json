@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "7280639A-5C93-4099-A4A5-677165576878",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C650EC17-F061-4922-B53C-D340FBD82A52",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "18F0CE56-69D9-4C8B-851E-6D48088654A8",
+    "height": 45,
+    "width": 244,
+    "x": 109,
+    "y": 904
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EE255175-618D-4B3F-B2B3-95E2AB02A39A"
+    },
+    {
+      "class": "text",
+      "id": "1F70CE07-F202-4FE0-B55E-7104EA5B8791"
+    }
+  ],
+  "name": "Place Order Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "871C2605-F3C1-4856-9D2C-02A3EDFB7768",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.322010869565217,
+      "type": 0
+    },
+    "do_objectID": "002C818F-1563-4892-A64D-F12F98595DD4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

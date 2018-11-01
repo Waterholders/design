@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "04969A74-E192-42B9-A85A-B7324DD96868",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F23B9180-7DEB-4871-931D-DBE4B35BC669",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "91C10960-C82F-4A54-9D97-47510599EA96",
+    "height": 100,
+    "width": 417,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6509F222-9D05-480D-A088-338CD1E696EB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B1659258-ABD8-4D85-B60A-1FF1D663C1A7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "54FCF7B9-0089-442A-92EE-7C626F536516"
+    }
+  ],
+  "name": "Rectangle 10 + Rectangle 10 Mask",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "70966CCB-A5AD-447B-8C98-E5F1048C7199",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.322010869565217,
+      "type": 0
+    },
+    "do_objectID": "A4C94FBB-2BA9-493B-8FF5-4EA2FA4F9B2F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "6EC13E33-2447-41A5-A11D-CB276DA4C13D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F66B9F17-1757-4881-B2E2-63AFA47F7EDB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1A2BB92B-94A9-47F8-B36A-7D00ACCD68DD",
+    "height": 100,
+    "width": 417,
+    "x": 0.8254076086959685,
+    "y": 26.5896739130435
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DC38D749-AB98-4332-8DE0-08C9F652B7D3"
+    },
+    {
+      "class": "group",
+      "id": "FD085156-5A6E-42E4-9AEA-97BE19C7E63E"
+    },
+    {
+      "class": "group",
+      "id": "46D63A1E-8DD6-4F17-B523-148832665F15"
+    },
+    {
+      "class": "group",
+      "id": "4AE03928-B1C4-46B1-BD84-642AB991ECD9"
+    },
+    {
+      "class": "group",
+      "id": "21CE8E24-B7C5-4102-8DCB-386083FD3A65"
+    }
+  ],
+  "name": "Strawberry pie",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "A04D0E5B-493F-4703-AD92-862FAE836DAA",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.322010869565217,
+      "type": 0
+    },
+    "do_objectID": "B5D431D6-4353-4CBF-88E1-BD56D6355EE1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

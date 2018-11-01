@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "84B31F47-AD95-40B2-AE1C-BAEC2C23A3D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "038E2F28-DBFB-4C2A-93B1-628D370BF311",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6DF56DA5-8825-4272-8652-138F7021E392",
+    "height": 60,
+    "width": 60,
+    "x": 356,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E6EF65C6-779C-4563-96C5-7C1BEFB49557"
+    },
+    {
+      "class": "shapePath",
+      "id": "B8A29486-2D37-4D9C-B6EC-F20D33DC0BAC"
+    }
+  ],
+  "name": "Add to order button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "580DD601-C9A1-4C76-BBC7-507FA8A03E94",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "47B8AF24-6AE2-46FD-B19D-F69E08EBFC66",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

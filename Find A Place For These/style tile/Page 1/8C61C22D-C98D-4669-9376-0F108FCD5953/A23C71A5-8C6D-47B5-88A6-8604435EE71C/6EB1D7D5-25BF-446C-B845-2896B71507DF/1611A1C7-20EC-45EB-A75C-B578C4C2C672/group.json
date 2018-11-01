@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "1611A1C7-20EC-45EB-A75C-B578C4C2C672",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6F103E26-37F1-4787-BCBE-3476509D11F4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6BFB8C98-1B53-43E9-99B8-38D3DDC512E0",
+    "height": 8.413145539906104,
+    "width": 54.04255319148939,
+    "x": 226.9787234042553,
+    "y": 34.85446009389671
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "89C97C75-1CE4-451B-A353-C7DCE408FD0F"
+    }
+  ],
+  "name": "earpiece",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C3EE72E3-E39E-438E-A440-6B5BD6A4C4BA",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.80609531313757,
+      "type": 0
+    },
+    "do_objectID": "1D9CC4E3-0039-4D9D-A601-D568CB5108F8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

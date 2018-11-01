@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "1A541C3D-B824-4502-B845-52BC28202062",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AFBD26FC-A5D5-47B0-B80C-00272FD7FEF8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AA89EEED-A8E3-4AEE-9254-A0859B0E282E",
+    "height": 365,
+    "width": 376,
+    "x": 1359,
+    "y": 323
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3071FFDF-F6A6-4CAB-8A9C-E2F248CF48A4"
+    },
+    {
+      "class": "bitmap",
+      "id": "ED503227-5C95-4021-821E-49EDAAB49B5D"
+    },
+    {
+      "class": "text",
+      "id": "E1A922CC-812F-40DF-90A7-7A57626B9A03"
+    }
+  ],
+  "name": "middle blob",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C3F74403-5D02-4FBA-A5B6-275BC386EC10",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

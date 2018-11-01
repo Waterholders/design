@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "E24B3F00-E596-402F-8985-1CA3F0FB7DD7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A05E6AF4-BF45-4A76-8DE8-244F32D3384E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A08ABFD-8291-445F-85C0-05758E20DA81",
+    "height": 242,
+    "width": 417,
+    "x": 2,
+    "y": 137
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "ED7A7766-DDA8-4831-A238-0A953DC06DA7"
+    },
+    {
+      "class": "group",
+      "id": "5BAC2378-0285-4BD7-A168-9BF13BFF0509"
+    },
+    {
+      "class": "text",
+      "id": "4BB5806B-F81E-484F-9FBD-AF093094B23C"
+    },
+    {
+      "class": "group",
+      "id": "B0388208-C88F-4DE8-AE3F-10F44142A85B"
+    },
+    {
+      "class": "group",
+      "id": "3325438A-9992-4ACD-8EDF-09D0897836AD"
+    },
+    {
+      "class": "group",
+      "id": "C90BA679-91B1-483C-A05A-B74016E8DEE2"
+    },
+    {
+      "class": "group",
+      "id": "E31B5344-0D1C-4D22-97CE-65D32656B081"
+    }
+  ],
+  "name": "ice cream sundae",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E52DE637-04FB-4151-8339-D07DBC65D520",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.322010869565217,
+      "type": 0
+    },
+    "do_objectID": "264AA555-0CBC-4AAF-9923-A44C663363DB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

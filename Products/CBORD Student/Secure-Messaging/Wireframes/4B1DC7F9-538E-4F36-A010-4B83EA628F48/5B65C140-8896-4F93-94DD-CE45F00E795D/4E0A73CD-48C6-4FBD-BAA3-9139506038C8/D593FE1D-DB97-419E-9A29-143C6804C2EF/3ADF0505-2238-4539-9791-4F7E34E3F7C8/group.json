@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3ADF0505-2238-4539-9791-4F7E34E3F7C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E396CE9-32D9-4DBA-BDA2-9928F4D41B3C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8243C4F0-694E-4C91-89B5-5D4F9EA5FA82",
+    "height": 13,
+    "width": 13,
+    "x": 65.37994523881487,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "D73C41DE-4A6F-4EE8-B899-803B19C7ED6F"
+    },
+    {
+      "class": "oval",
+      "id": "86B055D5-EF19-4B54-ADF2-F5272968E8E7"
+    },
+    {
+      "class": "oval",
+      "id": "5B0D6E69-A67D-4645-8B0E-F7DD5FCCEE88"
+    },
+    {
+      "class": "oval",
+      "id": "C2A8D3B2-0FC8-4EED-A6B0-20229A8C8FC2"
+    },
+    {
+      "class": "oval",
+      "id": "E53D5F49-C239-4CC3-9FEE-0D71FC30A703"
+    }
+  ],
+  "name": "Camera",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "3BB0B45D-E2C9-40B1-8394-4B6A065E704B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 15.0156381856303,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "9F790495-5B80-4A2F-A5CE-49702E8DD719",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.facebook.sketchplugins": {
+      "FBLayerMetadata": {
+        "FBLayout": {
+          "attributesString": "{\"alignmentX\":\"flex-start\",\"alignmentY\":\"flex-start\",\"direction\":\"column\",\"IsEnabled\":false,\"height\":\"auto\",\"isBounds\":false,\"margin\":[],\"padding\":[],\"spaceBetweenX\":false,\"spaceBetweenY\":false,\"spacingX\":null,\"spacingY\":null,\"width\":\"auto\"}"
+        }
+      }
+    }
+  }
+}

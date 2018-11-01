@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "27D571A4-08E0-41A6-B404-6B0A07FD454C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7F6C6D2B-142B-451A-A853-AB172D3C59AD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "20D497FD-F165-4392-A3BE-78FD39CDA61F",
+    "height": 54,
+    "width": 232,
+    "x": 134,
+    "y": 643
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "420B4324-542D-4065-89BE-9E034D84628F"
+    },
+    {
+      "class": "text",
+      "id": "888EC6C4-F670-48B7-AD0D-E334A20369B4"
+    },
+    {
+      "class": "group",
+      "id": "F99F7A9C-3F51-40CC-AB4B-BA8715EEB0D0"
+    }
+  ],
+  "name": "Order button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AF2638ED-8734-4040-B001-D1EC5A4F4EFF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "69F81027-6E48-4199-BBB4-611AE6EDE282",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "78AFC0E4-2DCB-482E-9697-F75BFB2708A6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "651AAB82-BEA2-4FAE-A287-05F3174DDF0F",
+    "height": 289,
+    "width": 653,
+    "x": 36,
+    "y": 261
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "672244FD-8F0D-4F3E-8C35-B55A4B708D4F"
+    },
+    {
+      "class": "group",
+      "id": "8C9B4968-59DF-40C0-94EE-BEB76550B0BA"
+    },
+    {
+      "class": "text",
+      "id": "B85CD079-938C-44FA-BF51-8B25989A8C5F"
+    }
+  ],
+  "name": "Order it again",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "D9E08340-1284-4C36-91EA-5C00DB274775",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.322010869565217,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "F31441EE-B8B4-4AB5-9009-AA337CA3B5D2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E3E3E49B-0FEF-4971-91E8-00C6E9756DFE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "99291A38-47B8-487F-A836-C9BA15230B49",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DDDEC0B7-0B0A-4F3D-89F5-5BF5B61450FE",
+    "height": 38,
+    "width": 34,
+    "x": 378,
+    "y": 910.0000000000001
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DD76633E-1AA5-4D39-98FE-8E890A2FE057"
+    },
+    {
+      "class": "text",
+      "id": "21DAAD41-FAF7-43DE-9B83-8DDF79DEF121"
+    }
+  ],
+  "name": "badge",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DF40B78D-6CF5-4031-8062-12FE7CB3C2D8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

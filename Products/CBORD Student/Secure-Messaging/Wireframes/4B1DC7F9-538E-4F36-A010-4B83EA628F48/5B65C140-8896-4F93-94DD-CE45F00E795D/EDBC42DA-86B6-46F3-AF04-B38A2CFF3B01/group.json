@@ -1,0 +1,99 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EDBC42DA-86B6-46F3-AF04-B38A2CFF3B01",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A83B5892-375E-4122-9ECF-BCC371A8EDD6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "AFBB3A44-703E-4CEA-902A-7D8FDDA0B90E",
+    "height": 12,
+    "width": 375,
+    "x": 28,
+    "y": 859
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "68854352-660E-4966-9CCC-5D2B27D9B6EF"
+    },
+    {
+      "class": "oval",
+      "id": "58AB7F97-FFC1-4468-A422-4B95AE5DE675"
+    },
+    {
+      "class": "oval",
+      "id": "4BE16C8C-3502-4132-86E9-0491FE0F2DA5"
+    }
+  ],
+  "name": "Shadow",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7F868A79-749F-4501-A7D9-E1E7EA7AE560",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 15,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "53412799-5CFF-4ED9-A6B5-945F464DDD1F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 37,
+            "enabled": 1,
+            "modelID": "constraint_05332aa9-d17e-44b4-a18e-d89d1589035a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 1116
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_8360e899-b76e-42fe-a1a1-467f3cc5c462",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    },
+    "com.facebook.sketchplugins": {
+      "FBLayerMetadata": {
+        "FBLayout": {
+          "attributesString": "{\"alignmentX\":\"flex-start\",\"alignmentY\":\"flex-start\",\"direction\":\"column\",\"IsEnabled\":false,\"height\":\"auto\",\"isBounds\":false,\"margin\":[],\"padding\":[],\"spaceBetweenX\":false,\"spaceBetweenY\":false,\"spacingX\":null,\"spacingY\":null,\"width\":\"auto\"}"
+        }
+      }
+    }
+  }
+}

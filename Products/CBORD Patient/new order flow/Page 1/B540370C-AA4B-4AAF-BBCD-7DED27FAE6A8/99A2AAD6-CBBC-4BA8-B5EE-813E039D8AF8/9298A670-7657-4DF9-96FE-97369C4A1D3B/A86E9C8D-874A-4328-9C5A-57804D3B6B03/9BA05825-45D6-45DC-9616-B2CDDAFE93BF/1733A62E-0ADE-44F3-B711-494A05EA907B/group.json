@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1733A62E-0ADE-44F3-B711-494A05EA907B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FDD97030-B1A8-41A1-B756-663F5EF002F4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "49923307-A955-4480-B8B9-F509D7BB5304",
+    "height": 100,
+    "width": 417,
+    "x": 0,
+    "y": 139
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C536E713-A6FB-42AF-B8EF-D89A1B9567D0"
+    },
+    {
+      "class": "group",
+      "id": "8A4BF099-F3A5-43E0-BF40-D9183B8205E2"
+    },
+    {
+      "class": "group",
+      "id": "B5F8BE93-042F-471B-99C1-73010AF435BD"
+    },
+    {
+      "class": "group",
+      "id": "8561DFE2-C1D0-4193-B04C-72626C1E22CB"
+    },
+    {
+      "class": "group",
+      "id": "225EC453-F674-4301-B921-E6536CBF4FB8"
+    }
+  ],
+  "name": "pepperoni pizza",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "AA2733CE-72A1-44CB-9329-6930FCB2301D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.322010869565217,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "53C3B705-6462-49E7-8D07-49FE4F08BB79",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

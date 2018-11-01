@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "36275F27-C7BB-4CAF-8A9E-3795941321D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CC0F546D-F430-436A-B1BB-D969E640AF18",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C12B238F-A587-44EC-A00D-3D940DE14872",
+    "height": 77,
+    "width": 77,
+    "x": 195,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "C8BEA629-7870-4CCC-A0A8-AD3111637DB5"
+    },
+    {
+      "class": "shapePath",
+      "id": "1E1D03A6-0883-4CE7-9582-AC30BD4E0500"
+    },
+    {
+      "class": "group",
+      "id": "D36FC35C-0FF7-460C-9316-36766343DA39"
+    }
+  ],
+  "name": "sodium",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5A028FC2-0D03-47B4-BA20-DC906B63CF6F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

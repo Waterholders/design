@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "15B96321-F873-4BD2-AC0E-F4DB69D90CB6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "37ACB1F0-CBC8-4A18-98BE-960B2A488E32",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "29A10F40-6A06-470B-8FA4-04CAD233F93A",
+    "height": 37,
+    "width": 339,
+    "x": 39.17730496453896,
+    "y": 101.962441314554
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "CA050E6A-16AD-4C8B-9850-08E9133F455E"
+    },
+    {
+      "class": "text",
+      "id": "3F1DF2A1-48B6-47E3-A224-E82B1A6CCBAA"
+    },
+    {
+      "class": "group",
+      "id": "D851A67D-26FC-42A4-BA76-2B5CF99EB9AF"
+    }
+  ],
+  "name": "Search bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7E5FE46E-1533-4D45-91A8-FEB123BD980A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

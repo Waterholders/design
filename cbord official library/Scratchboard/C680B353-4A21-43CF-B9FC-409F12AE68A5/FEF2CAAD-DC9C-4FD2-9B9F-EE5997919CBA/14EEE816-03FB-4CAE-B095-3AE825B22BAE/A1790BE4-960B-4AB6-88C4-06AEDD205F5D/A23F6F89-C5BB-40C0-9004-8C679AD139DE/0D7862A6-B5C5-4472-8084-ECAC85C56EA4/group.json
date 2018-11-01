@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0D7862A6-B5C5-4472-8084-ECAC85C56EA4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C9281FC3-09E6-400B-BAAF-39BB90371225",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CF0C1ABC-FD15-4423-B862-E79A02405FB6",
+    "height": 100,
+    "width": 417,
+    "x": 0,
+    "y": 30.92527173913038
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D25ED68C-5C12-4A38-BDFA-C7DA94FE46C8"
+    },
+    {
+      "class": "group",
+      "id": "B25595EE-5061-426C-879D-3B6A2E34CE4B"
+    },
+    {
+      "class": "group",
+      "id": "AB339E5D-6C64-443E-8BD7-F4824C2ABE27"
+    },
+    {
+      "class": "group",
+      "id": "9912A8C0-4988-4FC4-A2A4-4826EB6B91B4"
+    },
+    {
+      "class": "group",
+      "id": "7443EB6C-20E6-4F0A-A651-0FB7BC3D10BC"
+    }
+  ],
+  "name": "Flame grilled burger",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "5C2DDF55-F2E7-482E-B15A-06215C8B2130",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.322010869565217,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "28470D76-FB89-4117-A739-431E94A70F98",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

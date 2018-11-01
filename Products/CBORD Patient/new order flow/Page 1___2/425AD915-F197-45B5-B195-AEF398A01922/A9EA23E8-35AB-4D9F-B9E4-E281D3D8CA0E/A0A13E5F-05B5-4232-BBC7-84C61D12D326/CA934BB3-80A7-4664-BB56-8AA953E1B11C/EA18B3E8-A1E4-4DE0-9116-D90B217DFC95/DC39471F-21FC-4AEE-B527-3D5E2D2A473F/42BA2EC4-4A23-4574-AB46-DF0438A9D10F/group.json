@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "42BA2EC4-4A23-4574-AB46-DF0438A9D10F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2F2A39A6-499D-4312-8F76-60FAC22F58B9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7CB6235E-1CAA-4571-9727-649B44B1FA69",
+    "height": 38,
+    "width": 291,
+    "x": 13,
+    "y": 43.92488262910797
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "928B4050-C0CE-4C66-B7EF-ABCAB566B362"
+    },
+    {
+      "class": "group",
+      "id": "CFEDBB30-67DA-4879-BD9D-32B7FBCE2A60"
+    }
+  ],
+  "name": "ice cream sundae",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "A91906E3-98B6-4D00-A76D-090316BCA18E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.322010869565217,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "B88EB540-C044-4975-9AAF-2A0B57E1430C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

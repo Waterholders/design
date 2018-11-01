@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "30193A43-9E63-498E-A9D1-99A54494C628",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF86F84D-2996-4121-A635-D26C5357BE0D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2D588324-9EE1-4EEA-8BD1-C4975A2BD1AF",
+    "height": 14.42253521126761,
+    "width": 14.41134751773049,
+    "x": 2.401891252955082,
+    "y": 2.403755868544601
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DBF067D4-74B9-43AC-89F7-FD97DBB22D06"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DB190268-A0CF-4D82-A542-ADA580B06677"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4E3B11E0-B684-4442-9EC9-71DE09905402"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3516CC39-61CF-453C-A949-E7058366804C"
+    }
+  ],
+  "name": "front facing camera",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "24A4A182-BF86-4613-BDBF-18608E89B6E4",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12.018779342723,
+      "type": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "648EC09B-5B36-437B-B628-B92B3C1285F4",
+      "opacity": 0.5020380434782609
+    },
+    "do_objectID": "E393DE07-1A12-4559-B516-1CB4CCA5E8B7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

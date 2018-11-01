@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "86F8C6ED-003B-48ED-B3C5-DED770681852",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A27BA61D-1065-4CAB-B977-6D293537B4F4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "100795C7-F882-4296-B574-05C3DD6BDF77",
+    "height": 52,
+    "width": 44,
+    "x": 19,
+    "y": 13
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C8A1C629-0234-4039-910D-A79812D80AB3"
+    },
+    {
+      "class": "text",
+      "id": "717C7A59-445B-46DD-A768-65282E62D1D5"
+    },
+    {
+      "class": "text",
+      "id": "B8DBA916-20DD-4ABB-B55F-04C32991BEC7"
+    }
+  ],
+  "name": "nutrition",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EFFC8266-48CA-46CF-BABF-F42E3EA1E017",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

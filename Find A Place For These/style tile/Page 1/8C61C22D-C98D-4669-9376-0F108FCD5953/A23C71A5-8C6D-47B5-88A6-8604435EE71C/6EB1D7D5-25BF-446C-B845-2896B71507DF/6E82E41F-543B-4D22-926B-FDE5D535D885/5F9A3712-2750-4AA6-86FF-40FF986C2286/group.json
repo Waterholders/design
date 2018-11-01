@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "5F9A3712-2750-4AA6-86FF-40FF986C2286",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CEA7938C-4787-4B77-8613-82FE5C2A0FD1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "682EA21A-F44B-454D-B837-CF2B5C9BA9F2",
+    "height": 14.42253521126761,
+    "width": 14.41134751773049,
+    "x": 2.401891252955082,
+    "y": 2.403755868544601
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CC4E3E02-E558-43E3-AA2E-74FECC3B6E3F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "89E7985C-DBB7-4530-B236-C4ADBCA7921A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EB21FFD2-AE6A-4CBF-AE4B-C78FF69110A0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5234BF98-A9B5-4E11-BB8F-16E48473EBDD"
+    }
+  ],
+  "name": "iris recognition led",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "9EF6B7DA-165D-4E8D-B529-61C406B25447",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12.018779342723,
+      "type": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "127C5825-DDE7-404F-AFDC-5C488AF2E6CD",
+      "opacity": 0.6950294384057971
+    },
+    "do_objectID": "BC9CC337-5BAC-4ED6-8EAD-4CBE01CD94FE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

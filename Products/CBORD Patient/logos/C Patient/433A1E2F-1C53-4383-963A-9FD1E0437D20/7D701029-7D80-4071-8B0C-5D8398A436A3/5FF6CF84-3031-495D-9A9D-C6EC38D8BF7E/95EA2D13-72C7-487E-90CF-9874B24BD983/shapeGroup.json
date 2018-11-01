@@ -1,0 +1,126 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "95EA2D13-72C7-487E-90CF-9874B24BD983",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 95,
+    "width": 537,
+    "x": 88,
+    "y": 139
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C1B623AA-0278-43A5-94CC-9A8E60C97DE2"
+    },
+    {
+      "class": "shapePath",
+      "id": "E6450D36-8F40-48E4-8650-B1BD915C0F5E"
+    },
+    {
+      "class": "shapePath",
+      "id": "937F8295-B4BE-43C3-8CEC-09CDD0CF0A85"
+    },
+    {
+      "class": "shapePath",
+      "id": "6E4407A6-5E03-4C9A-B04D-EC4F2B182FA4"
+    },
+    {
+      "class": "shapePath",
+      "id": "7D4D19D7-5694-43D6-9768-8B0320A23C42"
+    },
+    {
+      "class": "shapePath",
+      "id": "84BDB3B1-C5CC-4B33-A6A3-40B6DBA50D20"
+    },
+    {
+      "class": "shapePath",
+      "id": "47CD0749-3962-45F6-A029-27C13BE7C32F"
+    },
+    {
+      "class": "shapePath",
+      "id": "E1160B2A-9D89-48A1-9B6C-CA5EF1D1532C"
+    },
+    {
+      "class": "shapePath",
+      "id": "4AF15CA0-A913-4B4F-8F53-709B49216406"
+    }
+  ],
+  "name": "PATIENT",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9803921568627452,
+          "green": 1,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9803921568627452,
+          "green": 1,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Nunito-Regular",
+            "size": 375
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle"
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

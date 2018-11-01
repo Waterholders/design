@@ -1,0 +1,95 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.1215686274509804,
+    "green": 0.1176470588235294,
+    "red": 0.1137254901960784
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 4722,
+  "clippingMaskMode": 0,
+  "do_objectID": "DD183A61-2772-4C74-B62D-FA87CA1B176E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 275,
+    "width": 432,
+    "x": 21,
+    "y": 1070
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "9F31532C-8849-498A-A4F7-C726755887F7"
+    },
+    {
+      "class": "group",
+      "id": "2F299968-1D68-4445-A37D-4A37400CC781"
+    },
+    {
+      "class": "text",
+      "id": "CEF7704A-1635-4E60-B804-0E2722AE3EA4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BF170E12-DA3A-40F7-A9A3-56F086D9945C"
+    }
+  ],
+  "name": "food-tab",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "763046B2-3212-4F55-9642-7AF9E4B5BE58",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

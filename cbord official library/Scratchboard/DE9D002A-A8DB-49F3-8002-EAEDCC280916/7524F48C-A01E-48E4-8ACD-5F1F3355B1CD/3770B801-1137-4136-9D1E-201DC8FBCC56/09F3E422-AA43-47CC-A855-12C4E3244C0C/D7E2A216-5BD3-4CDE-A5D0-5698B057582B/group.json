@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D7E2A216-5BD3-4CDE-A5D0-5698B057582B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "96528AE9-A46A-4D4C-BBF9-C64A93DBC85C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "81B18B69-983D-4EB4-957D-912299C221CD",
+    "height": 712,
+    "width": 451,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A5FEF89B-F47D-4E8C-AB5A-2FB9B354247D"
+    },
+    {
+      "class": "group",
+      "id": "90C36AA7-E51F-4DF4-A315-1F17849F0998"
+    }
+  ],
+  "name": "pizza",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5495A061-EF03-470E-BC78-A0DF6A4CB8E9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

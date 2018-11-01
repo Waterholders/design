@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "43363B6F-4BC0-45DA-BDF0-F340FD7B5281",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2058252F-0C0B-407D-B150-A76B702E6F18",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E73C60D4-2957-4B41-B4A6-3D4D41446BA8",
+    "height": 100,
+    "width": 417,
+    "x": 0,
+    "y": 30.92527173913038
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DFA12AD4-1B1F-4D5E-A9C5-2301BB556632"
+    },
+    {
+      "class": "group",
+      "id": "62D40CAE-D592-4B1D-A77A-F743C5CFF880"
+    },
+    {
+      "class": "group",
+      "id": "9620A9EB-14E4-47D9-B207-86795D8DF782"
+    },
+    {
+      "class": "group",
+      "id": "1A87905A-8118-4131-9239-93CB708843CD"
+    },
+    {
+      "class": "group",
+      "id": "A1B628FB-5D9B-4783-A7B5-08CEE11F62E6"
+    }
+  ],
+  "name": "Flame grilled burger",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "06ECFAB6-B8A7-4945-9BFF-6253D49E3E53",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.322010869565217,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "5C772D94-5412-468B-8608-0ED388091F1A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

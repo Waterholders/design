@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7A32C524-8F77-4CB3-BC34-6B2864EE3E4A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D04453EE-B89C-4EA4-8883-A0C42ACFAC85",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "FCCCDBE2-515F-4FB0-9A7F-DAE8BADBB45D",
+    "height": 14.42253521126761,
+    "width": 14.41134751773049,
+    "x": 2.401891252955082,
+    "y": 2.403755868544601
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "04739297-F0C1-42B0-AE9D-EB2FDB100F1C"
+    },
+    {
+      "class": "oval",
+      "id": "DEEB2D0C-8099-4D61-9A8F-6182BF99C234"
+    },
+    {
+      "class": "oval",
+      "id": "D841427B-EE6D-4B89-8B0E-62322612442E"
+    },
+    {
+      "class": "oval",
+      "id": "BBA56DB1-2858-4ACF-8DCE-FD16D94AD690"
+    }
+  ],
+  "name": "front facing camera",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "081213E3-C3F2-44CA-B6F1-F592F898C487",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12.018779342723,
+      "saturation": 1,
+      "type": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "3721B0D7-E544-4FB9-8BC1-894036999096",
+      "opacity": 0.4988677536231884
+    },
+    "do_objectID": "6A9F4488-3161-4781-9EA3-61354C0F5EAA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

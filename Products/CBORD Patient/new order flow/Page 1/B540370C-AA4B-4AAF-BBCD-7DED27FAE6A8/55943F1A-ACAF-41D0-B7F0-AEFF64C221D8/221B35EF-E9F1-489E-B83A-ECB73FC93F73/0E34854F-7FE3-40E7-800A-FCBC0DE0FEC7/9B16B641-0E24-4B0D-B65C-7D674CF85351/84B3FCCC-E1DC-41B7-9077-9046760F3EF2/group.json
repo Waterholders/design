@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "84B3FCCC-E1DC-41B7-9077-9046760F3EF2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "67025D06-1C7B-4DED-AD30-2AC2B30C9308",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B2AB8B24-D4B4-461E-A138-9FDDAA9895C2",
+    "height": 100,
+    "width": 417,
+    "x": 0,
+    "y": 248.9619565217391
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "69DCEA04-39A2-475A-AD5F-42B9F5DAC556"
+    },
+    {
+      "class": "group",
+      "id": "7790CE52-1639-4F30-A5C3-9A7555D84D54"
+    },
+    {
+      "class": "group",
+      "id": "C7DBD33D-07BD-47F6-9CE6-338EEF3AD1C4"
+    }
+  ],
+  "name": "salad",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "3789F1D7-B52B-4F3B-A4A5-496DDF8F9CCB",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.322010869565217,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "46ED4CEA-7922-4517-A7FF-F100395B56BB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "53E17020-4034-4694-BEA4-BD8A1DA7FBD2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "55A9153F-6BDA-4ECD-8555-DC1E48B0C721",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "791200EF-9493-4FEF-97F4-BE9352DC3073",
+    "height": 100,
+    "width": 417,
+    "x": 0,
+    "y": 139
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "20C0C07F-DE3F-400F-A506-5936D99F3C52"
+    },
+    {
+      "class": "group",
+      "id": "532836DA-AA8E-4723-AAAE-C80356941A2C"
+    },
+    {
+      "class": "group",
+      "id": "0E111A7E-1428-4089-ABAD-A10BD1A72CF2"
+    }
+  ],
+  "name": "creme brulee",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "F6F2B209-3CB8-49F1-9038-983094287FD2",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.322010869565217,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "00E4D7A6-549E-4868-BE13-EE53C9951B17",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

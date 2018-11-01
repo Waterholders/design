@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "FAE4D941-2B6B-415C-B643-FEF160751546",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "932F37A3-934B-43A9-B687-ABB6B8BC0AC7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "52E2C5A1-8209-45DE-BE33-2AFCE63DE567",
+    "height": 80,
+    "width": 270,
+    "x": 47.17730496453896,
+    "y": 148.962441314554
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "64F8A30E-D8DD-42AD-8557-A92B9C298389"
+    },
+    {
+      "class": "group",
+      "id": "313AE5E7-EDFF-43C6-9726-31735195C0CC"
+    },
+    {
+      "class": "group",
+      "id": "3B7947DF-B673-43E5-8C2C-0CD4F0552B10"
+    }
+  ],
+  "name": "nutrition guages",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0D828354-E530-4F55-A0BE-50D04E169B7C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

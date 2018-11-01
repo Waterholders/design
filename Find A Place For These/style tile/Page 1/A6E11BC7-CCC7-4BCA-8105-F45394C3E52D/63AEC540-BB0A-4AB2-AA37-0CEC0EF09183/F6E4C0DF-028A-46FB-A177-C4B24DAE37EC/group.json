@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "F6E4C0DF-028A-46FB-A177-C4B24DAE37EC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4B56EE05-41E2-4764-9B06-F99252F2164F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "694D8810-5C61-470A-B9FF-CD1649C8C34D",
+    "height": 178,
+    "width": 400,
+    "x": 970,
+    "y": 61
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BF984BF5-4E99-4255-B598-7C249F1F2AA2"
+    },
+    {
+      "class": "text",
+      "id": "D6984462-DC6E-4B3F-B02B-F1643F7F7F8C"
+    },
+    {
+      "class": "text",
+      "id": "A4464599-89B9-4A57-9EC1-9E8539BCA4B7"
+    },
+    {
+      "class": "group",
+      "id": "86643A49-DB3A-4773-AB5B-0702FDA28D63"
+    }
+  ],
+  "name": "dinner card button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8BB41A37-29A5-4B25-B503-965C220FC82C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

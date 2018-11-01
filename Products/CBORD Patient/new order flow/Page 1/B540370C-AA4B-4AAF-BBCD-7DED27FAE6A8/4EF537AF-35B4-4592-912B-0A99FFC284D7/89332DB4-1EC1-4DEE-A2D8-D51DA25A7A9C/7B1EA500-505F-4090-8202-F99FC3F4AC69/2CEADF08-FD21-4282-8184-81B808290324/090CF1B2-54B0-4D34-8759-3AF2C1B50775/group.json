@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "090CF1B2-54B0-4D34-8759-3AF2C1B50775",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8B8E3205-6A0E-4365-963E-C9991E7D9419",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9EE8039A-B38C-4651-8A02-85FCC250BC59",
+    "height": 739,
+    "width": 591,
+    "x": -70,
+    "y": -133
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "E1C50C94-52A9-4B92-ADE8-022B9F09CDB9"
+    },
+    {
+      "class": "rectangle",
+      "id": "771EE6C3-DEB9-4F4E-AF47-9926DD20F8EA"
+    },
+    {
+      "class": "group",
+      "id": "A1E87C12-9E7C-4BEE-A732-A9E7D0105218"
+    },
+    {
+      "class": "group",
+      "id": "9D12EBE6-1D22-427E-8421-A68771CC4A52"
+    },
+    {
+      "class": "group",
+      "id": "782C85EA-1282-4166-B759-F1E1AA3563FA"
+    },
+    {
+      "class": "group",
+      "id": "D6CC041B-B6D8-420C-A117-E743045AF241"
+    }
+  ],
+  "name": "pizza",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "5DCF59D3-32C7-4863-A04B-6B6368DAB884",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.987771739130435,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "155E22C4-2971-440D-AFB2-5A8D8FF79AC1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

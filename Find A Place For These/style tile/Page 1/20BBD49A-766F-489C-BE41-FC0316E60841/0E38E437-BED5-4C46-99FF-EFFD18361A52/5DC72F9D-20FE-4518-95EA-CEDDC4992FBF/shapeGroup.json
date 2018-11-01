@@ -1,0 +1,87 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5DC72F9D-20FE-4518-95EA-CEDDC4992FBF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2EADBD98-25A4-4A7F-889D-F8477772FFB4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BE854F11-DEF6-4C0B-AE85-08B7CABFCBF1",
+    "height": 35.3657770800628,
+    "width": 243.4777687954729,
+    "x": 126.9620048504446,
+    "y": 21.70172684458399
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "96A5EA0B-DB65-458F-8A7C-0AE5042BE6F2"
+    }
+  ],
+  "name": "bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "9825031B-A7A5-4586-AA4D-7A4F1171BC51",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.018838304552591,
+      "type": 0
+    },
+    "do_objectID": "355477AB-F76C-4BD7-A0DC-98FD5072833F",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

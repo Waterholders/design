@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2AFC65FA-BA45-4E75-A606-2324A5B5805C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DDC1B155-0743-4D1B-90AD-BDC2E3AE9D60",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2866D689-69EA-4EC4-B441-C75D85EF2E78",
+    "height": 30,
+    "width": 150,
+    "x": 0,
+    "y": 40
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "ACB0D50D-67A6-4FBD-AD2C-192B30DA55AF"
+    },
+    {
+      "class": "text",
+      "id": "091A686E-AA99-4D09-8908-14C95D1D2937"
+    }
+  ],
+  "name": "nutrition Facts",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D969A945-0951-4798-914F-E719649E272E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

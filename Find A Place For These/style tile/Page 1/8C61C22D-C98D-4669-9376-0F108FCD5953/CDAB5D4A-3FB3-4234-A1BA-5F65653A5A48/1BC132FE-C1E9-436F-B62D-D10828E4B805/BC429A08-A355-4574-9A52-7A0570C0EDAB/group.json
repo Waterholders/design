@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "BC429A08-A355-4574-9A52-7A0570C0EDAB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "936DFAE3-B7CC-44E9-AEE7-741DBF16C9E2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "418655B6-E434-44D6-8143-A0EED9778418",
+    "height": 19.23004694835681,
+    "width": 19.21513002364065,
+    "x": 156.1229314420804,
+    "y": 28.84507042253521
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6C86458C-7D47-4BA0-8F60-E71BFEF2D9CE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B3207514-EDE0-43E0-A394-8C1B1BF36B8A"
+    },
+    {
+      "class": "group",
+      "id": "30193A43-9E63-498E-A9D1-99A54494C628"
+    }
+  ],
+  "name": "f-cam-2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "DE982379-6006-4498-8F1D-05B9A4F8F0EE",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12.018779342723,
+      "type": 0
+    },
+    "do_objectID": "DCE5B3B7-202C-4553-AEC0-1415A381FC0C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

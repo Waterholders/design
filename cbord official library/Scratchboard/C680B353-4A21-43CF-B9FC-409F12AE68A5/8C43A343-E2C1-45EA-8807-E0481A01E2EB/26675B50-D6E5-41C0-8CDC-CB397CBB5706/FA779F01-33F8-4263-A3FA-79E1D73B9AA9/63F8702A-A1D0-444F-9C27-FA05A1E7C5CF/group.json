@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "63F8702A-A1D0-444F-9C27-FA05A1E7C5CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A950E244-EBC1-4B9A-BF92-0D280A3F4E0B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "57EA2F1E-0362-4A1C-87F8-86298D692B5A",
+    "height": 163,
+    "width": 430,
+    "x": 16,
+    "y": 553
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "7FAC1962-0082-452B-B9F8-16E65DD2BEDE"
+    },
+    {
+      "class": "group",
+      "id": "1FC12803-34E9-4B07-A75B-8D4822C4EEB0"
+    },
+    {
+      "class": "group",
+      "id": "7D4A080C-5E77-404D-BF39-0B338BE1B163"
+    }
+  ],
+  "name": "Mother of Jenny",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "48441B49-1B3A-4E6F-BC66-A28B4CC08F3A",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.322010869565217,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "98E9AAAA-C7DC-4A02-9A71-5B0BB6A53EC6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

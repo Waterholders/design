@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "C5D09C0B-48D9-499A-A3FB-5DC3154B8612",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 417,
+    "x": 5.825407608695652,
+    "y": 56.58967391304348
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B9F46F9E-A065-4CD2-B65A-F05DC40F267B"
+    },
+    {
+      "class": "group",
+      "id": "B5A48C2E-BD37-4FBD-994B-43636B27D126"
+    },
+    {
+      "class": "group",
+      "id": "780AB2A8-DD9A-47B3-B46B-0FF4B4538C35"
+    },
+    {
+      "class": "group",
+      "id": "91C26526-39A9-4AA1-BCB5-A7EE5648EFDC"
+    },
+    {
+      "class": "group",
+      "id": "57B57085-E0B1-4676-A715-2202FE92D2D6"
+    }
+  ],
+  "name": "ice cream order",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.322010869565217,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

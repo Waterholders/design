@@ -1,0 +1,80 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "D2562A39-A714-4D58-9BCD-2D556C7C00A7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "12424C7D-3504-4084-90DE-82B547261630",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "BF1A00E9-32D0-4105-8072-5BB3AE2F2DE4",
+    "height": 3169,
+    "width": 2865,
+    "x": -2075,
+    "y": -8530
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "01D830A2-655E-4053-B5E5-3B54044C3FB4"
+    },
+    {
+      "class": "group",
+      "id": "44DA0633-D405-479E-B789-73D241C9377D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "29A1D964-526E-4CB6-BC5E-06C32CF07A80"
+    },
+    {
+      "class": "text",
+      "id": "2B22A8F4-523B-47B4-B692-97D46C2B9F15"
+    },
+    {
+      "class": "text",
+      "id": "9D1E78FF-8CDE-4FC7-A4FC-71F68A22FA04"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F41435D5-4037-4B1E-AD4A-4E5BC8FAC1A6"
+    }
+  ],
+  "name": "cbord patient final",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E84C5E80-0B31-4699-A6C7-9204AB3DB7B4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

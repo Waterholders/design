@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "C80CA1F0-2EE0-4734-853F-B2E895547CE9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8366A965-B6B7-4316-9C2C-66D6EC20EBD3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B2856C6F-D492-4BCC-8FD7-B0F380E6A2F7",
+    "height": 178,
+    "width": 400,
+    "x": 70,
+    "y": 61
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "958B8193-4045-4ED1-8EAD-D512E2813673"
+    },
+    {
+      "class": "text",
+      "id": "0ABE10D9-687D-4775-99D0-5F82876232DE"
+    },
+    {
+      "class": "text",
+      "id": "EB2CF57A-7387-4C34-94A4-FB8557602FD6"
+    },
+    {
+      "class": "group",
+      "id": "84A6A0E2-9EB4-44FA-82D0-23CB0E371084"
+    }
+  ],
+  "name": "breakfast card button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F976E4C1-4B78-40DE-95DB-62B2F7512FC5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

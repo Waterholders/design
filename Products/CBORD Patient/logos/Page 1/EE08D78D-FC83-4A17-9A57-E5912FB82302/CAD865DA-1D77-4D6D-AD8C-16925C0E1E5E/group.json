@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "CAD865DA-1D77-4D6D-AD8C-16925C0E1E5E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "294B1C2F-A22E-4439-8E7B-F1D92EACAE08",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B0556836-6469-47C8-A7A5-68E72C6F5856",
+    "height": 65,
+    "width": 77,
+    "x": 0,
+    "y": 15
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2AE6339B-B580-4B03-8E5A-B99636C11E93"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EED36BA0-2081-4BBD-8F43-B4A9C174FF4D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B8825340-C2FD-4AE3-997F-8CF61E57F49F"
+    }
+  ],
+  "name": "apple face",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "296285C1-1585-47AD-B51E-9CF6D6453158",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

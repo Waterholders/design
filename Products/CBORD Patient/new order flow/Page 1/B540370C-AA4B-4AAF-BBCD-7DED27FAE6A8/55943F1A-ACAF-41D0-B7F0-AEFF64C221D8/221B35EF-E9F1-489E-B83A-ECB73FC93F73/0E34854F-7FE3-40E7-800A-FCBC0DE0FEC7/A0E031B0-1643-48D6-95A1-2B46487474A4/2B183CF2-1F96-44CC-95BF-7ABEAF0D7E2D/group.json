@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2B183CF2-1F96-44CC-95BF-7ABEAF0D7E2D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CF4A74F5-C70B-4D76-A11E-7C711F17F667",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "980717AB-7677-4A19-B13D-742DF1AEA1DA",
+    "height": 79,
+    "width": 417,
+    "x": 0,
+    "y": 358.9239130434783
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BAF5AB4C-CC1E-47C1-85E1-B29D588857D8"
+    },
+    {
+      "class": "group",
+      "id": "B48E6CDD-3096-4B4E-9596-F9A289040D22"
+    },
+    {
+      "class": "group",
+      "id": "A91FDF26-7280-4D99-B940-2E74BDF908D1"
+    }
+  ],
+  "name": "orange juice",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "84A9675C-3369-4CD0-956F-BCA802C7F328",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.322010869565217,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "A331EF09-1FEF-4162-8705-C0E91F1663D5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

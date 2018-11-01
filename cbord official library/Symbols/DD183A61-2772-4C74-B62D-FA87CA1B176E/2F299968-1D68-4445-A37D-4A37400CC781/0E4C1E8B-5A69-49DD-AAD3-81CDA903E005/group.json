@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0E4C1E8B-5A69-49DD-AAD3-81CDA903E005",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A67BFDEB-901B-4931-8834-F64E035E6AFA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4F056A12-D221-4D97-A488-3775DCE2C3BB",
+    "height": 100,
+    "width": 419,
+    "x": 2,
+    "y": 111
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "978EC2AD-04EC-42EB-B923-54704509CA77"
+    },
+    {
+      "class": "group",
+      "id": "DE635532-3ABA-4B64-8282-E47FB0FAEBEB"
+    },
+    {
+      "class": "group",
+      "id": "DCEBD6DD-A762-43A1-8D97-B47153085B32"
+    },
+    {
+      "class": "group",
+      "id": "C7D74AD8-1803-4A5A-B274-8DDEBCE707D4"
+    },
+    {
+      "class": "group",
+      "id": "1C9BE850-358E-4C81-8554-A81314FE8A28"
+    }
+  ],
+  "name": "ice cream order",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "8CB893B5-458F-41A4-A344-ED87CF181FD7",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.322010869565217,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "ABDB7D68-D693-4E43-A65E-A52EFFE23060",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9862AF1B-48A8-4043-AF73-11C3E6A56A90",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "36C02389-46D2-4F7E-AB96-7ACE8D0673C9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "4EA2E28D-7056-430D-86D3-DB416EDE5CA1",
+    "height": 14.42253521126761,
+    "width": 14.41134751773049,
+    "x": 2.401891252955082,
+    "y": 2.403755868544601
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "642ADE22-53EA-4BA5-9BED-7569D3379836"
+    },
+    {
+      "class": "oval",
+      "id": "86C210A1-36FC-4B49-8F4A-5D9394324CC6"
+    },
+    {
+      "class": "oval",
+      "id": "92E5DAE8-D00B-4BCD-8349-FDF47536A806"
+    },
+    {
+      "class": "oval",
+      "id": "D2B6E85C-B5F2-421C-8213-122DA8AD4520"
+    }
+  ],
+  "name": "iris recognition led",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "12A9343F-86C5-48E9-B1A1-4321DEBFB1EE",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12.018779342723,
+      "saturation": 1,
+      "type": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "8FAD299D-0510-4B5C-8573-8FB388C6E047",
+      "opacity": 0.6950294384057971
+    },
+    "do_objectID": "DAFEC111-694B-4097-AE7F-5B49CD5A0F01",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

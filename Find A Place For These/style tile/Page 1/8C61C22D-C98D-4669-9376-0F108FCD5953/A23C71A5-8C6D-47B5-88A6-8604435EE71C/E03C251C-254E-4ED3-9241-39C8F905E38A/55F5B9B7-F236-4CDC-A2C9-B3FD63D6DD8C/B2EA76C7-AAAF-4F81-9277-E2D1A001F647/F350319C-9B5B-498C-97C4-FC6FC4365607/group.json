@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "F350319C-9B5B-498C-97C4-FC6FC4365607",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6132669F-5908-4985-9BD7-D3F13D54D214",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "05E98328-16BB-43D0-8FFB-D4CE72B08EA7",
+    "height": 100,
+    "width": 417,
+    "x": 5.825407608695652,
+    "y": 167.2724184782608
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "14A2337A-89E1-4155-A817-F66246F36CF1"
+    },
+    {
+      "class": "group",
+      "id": "A2CAB7CF-A83A-4CF8-AFF1-4BAC42946175"
+    },
+    {
+      "class": "group",
+      "id": "A2D4DC55-9D6A-4629-B72C-630BD7799DE8"
+    },
+    {
+      "class": "group",
+      "id": "67899CF7-3731-4AF5-993F-7FA1606D8032"
+    },
+    {
+      "class": "group",
+      "id": "5CDEA425-5582-479F-A3CD-9B4DAA3411E8"
+    }
+  ],
+  "name": "ice cream order",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1CA0492F-126F-44C2-AFA9-509EF15660B0",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.322010869565217,
+      "type": 0
+    },
+    "do_objectID": "5721BF99-7AE8-48C2-B2C8-96E5E298CD29",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AD03A475-DBCD-4D32-B85E-A67911A2AEA3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 331.2826822516151,
+    "width": 1423.087248011388,
+    "x": 2947,
+    "y": 2019
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "05265B59-14A6-4F7D-B365-18252E78450F"
+    },
+    {
+      "class": "shapePath",
+      "id": "CCECF19F-61A6-46D7-BE88-40A606A40C5E"
+    },
+    {
+      "class": "shapePath",
+      "id": "17EDC2D1-CCC4-4075-9140-ED80C33CA79E"
+    },
+    {
+      "class": "shapePath",
+      "id": "E8675536-65A6-4C25-B819-F5597D847C36"
+    },
+    {
+      "class": "shapePath",
+      "id": "BDF23061-D500-4299-9B4A-696D4D2C90A0"
+    },
+    {
+      "class": "shapePath",
+      "id": "BE140B2B-EC20-4095-B445-2ABE2DCE7FD3"
+    },
+    {
+      "class": "shapePath",
+      "id": "47495BEA-CC24-4E09-91B8-0C5B57A2E33C"
+    },
+    {
+      "class": "shapePath",
+      "id": "2B09BBEF-672D-4010-A883-E0AC10527583"
+    },
+    {
+      "class": "shapePath",
+      "id": "E6165E6F-8ECF-467C-AD54-530D3E2E713B"
+    },
+    {
+      "class": "shapePath",
+      "id": "4D5D23A1-F9F2-4A15-ADE5-4321A553883A"
+    },
+    {
+      "class": "shapePath",
+      "id": "E6797CC6-67B9-48A5-B416-28D88A42E432"
+    }
+  ],
+  "name": "Patient",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4705882352941176,
+          "green": 0.3254901960784314,
+          "red": 0.1803921568627451
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4705882352941176,
+          "green": 0.3254901960784314,
+          "red": 0.1803921568627451
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Nunito-SemiBold",
+            "size": 400
+          }
+        },
+        "kerning": 0,
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

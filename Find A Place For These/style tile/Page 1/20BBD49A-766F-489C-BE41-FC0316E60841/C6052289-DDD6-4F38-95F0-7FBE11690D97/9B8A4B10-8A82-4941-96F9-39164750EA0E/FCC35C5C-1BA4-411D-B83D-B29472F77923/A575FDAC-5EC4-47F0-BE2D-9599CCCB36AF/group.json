@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "A575FDAC-5EC4-47F0-BE2D-9599CCCB36AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0B900F16-DE3E-4A71-9DA3-5FBFF2D3CA87",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9A6342B5-1FEB-4C51-A450-451104B219EE",
+    "height": 379,
+    "width": 419,
+    "x": 34,
+    "y": 143
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "038F69C4-7B6E-473C-B8B4-A8C80825AB27"
+    },
+    {
+      "class": "group",
+      "id": "6EC13E33-2447-41A5-A11D-CB276DA4C13D"
+    },
+    {
+      "class": "text",
+      "id": "1D3BE290-162C-4AE2-93BF-093F2E2A6A55"
+    }
+  ],
+  "name": "Sweet Treats",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "65394BA5-DB5D-4551-9306-F28F09D49F58",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.322010869565217,
+      "type": 0
+    },
+    "do_objectID": "5329BB60-73DB-4850-830C-6E3832B3D765",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

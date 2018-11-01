@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "528E82F9-C68E-4A99-87E8-0E71B7837B1C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B7D6623E-4C50-40BB-863A-98B3B2E24745",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "32C8A31E-0360-4DC1-A69F-CEA4BD356CB1",
+    "height": 45,
+    "width": 396,
+    "x": 10,
+    "y": 148
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F9C6D606-2A12-4833-8676-5F52FA408D4F"
+    },
+    {
+      "class": "text",
+      "id": "B59C1ACC-945B-489A-94FF-307CAA1C7B98"
+    },
+    {
+      "class": "oval",
+      "id": "D1D85F97-23AC-4613-843D-8E3662EC9306"
+    }
+  ],
+  "name": "chocolate",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C8934E04-5999-4CE8-BC70-447F1E210A31",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

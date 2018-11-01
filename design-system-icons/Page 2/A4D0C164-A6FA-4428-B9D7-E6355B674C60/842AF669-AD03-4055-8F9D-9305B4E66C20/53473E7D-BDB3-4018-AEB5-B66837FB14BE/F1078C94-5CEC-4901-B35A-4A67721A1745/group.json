@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F1078C94-5CEC-4901-B35A-4A67721A1745",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "81493770-19F8-429C-AEFA-2141A021CA8D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "03106BA0-8E8D-48D5-8433-AE1874F74B15",
+    "height": 133,
+    "width": 269,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2E4948D8-45C5-43A5-8C69-28CFF22668FD"
+    },
+    {
+      "class": "rectangle",
+      "id": "E067D654-EC1F-4D55-B1F3-8E5CA683F503"
+    },
+    {
+      "class": "rectangle",
+      "id": "DC0423E5-97F6-470E-81F2-153420075D41"
+    },
+    {
+      "class": "shapePath",
+      "id": "0D2F56F7-DDE4-4399-89E1-B76A1D886533"
+    }
+  ],
+  "name": "lego",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2BD38ABC-9BE9-4C1D-B9A9-D0BB2E6016F2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

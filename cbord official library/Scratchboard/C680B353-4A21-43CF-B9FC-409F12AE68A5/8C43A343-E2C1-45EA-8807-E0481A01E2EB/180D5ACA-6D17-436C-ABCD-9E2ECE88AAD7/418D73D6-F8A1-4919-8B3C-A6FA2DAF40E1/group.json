@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "418D73D6-F8A1-4919-8B3C-A6FA2DAF40E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D68A2AF5-F145-4025-BCD2-DA498CEB142E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "360885CD-2307-476E-9A55-28BC9E0CA4C9",
+    "height": 19.23004694835681,
+    "width": 19.21513002364065,
+    "x": 330.2600472813239,
+    "y": 28.84507042253521
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "BB013584-FAF0-4030-B7F3-718A2779656A"
+    },
+    {
+      "class": "oval",
+      "id": "9C472E93-0B6C-4AB1-A4D9-46A5E89FF79B"
+    },
+    {
+      "class": "group",
+      "id": "DAE34816-4A6C-4874-96E2-94A8ABF48781"
+    }
+  ],
+  "name": "sensor",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "FB95B1BB-76D8-462F-9FFE-CE33E20654E6",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12.018779342723,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "D9C3E614-7E1F-4296-81EF-9C6158E2D7A6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

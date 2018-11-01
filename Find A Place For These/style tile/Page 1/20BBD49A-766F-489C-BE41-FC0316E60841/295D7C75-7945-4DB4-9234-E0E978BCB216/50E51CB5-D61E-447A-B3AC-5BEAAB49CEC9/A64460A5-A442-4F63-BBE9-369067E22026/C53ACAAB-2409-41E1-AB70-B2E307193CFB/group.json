@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "C53ACAAB-2409-41E1-AB70-B2E307193CFB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AA25449F-19B4-4EEB-B654-505F2600FD29",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A5B7DEED-14BC-497F-8BB6-3250CF0D20C4",
+    "height": 380,
+    "width": 430,
+    "x": 16,
+    "y": 553
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DA96DDDF-3097-4075-9A4E-CF99E4CB50C1"
+    },
+    {
+      "class": "group",
+      "id": "632C9FC3-DD71-4917-88FF-93F04ACA4F1E"
+    },
+    {
+      "class": "group",
+      "id": "762DF40B-E50D-4CB1-8A8A-5BC857CE47F5"
+    },
+    {
+      "class": "group",
+      "id": "75E0A886-F6C3-4A08-943E-3E7283E07162"
+    },
+    {
+      "class": "group",
+      "id": "22702327-D54D-463E-9C00-0DA8C0031945"
+    }
+  ],
+  "name": "Mother of Jenny",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "637C86FD-2EAC-4405-B572-6C171715BF04",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.322010869565217,
+      "type": 0
+    },
+    "do_objectID": "D61AAB8B-E61D-451B-A3DA-BC32942E6812",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

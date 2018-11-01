@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6F23D3DA-6214-40FA-9728-9E8ECFE83DB5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "98DBED75-484F-4296-A8E3-8496C2084877",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ACC511A2-16D6-4114-BC8C-1EC789D12E20",
+    "height": 55,
+    "width": 110,
+    "x": 240,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F854D759-F823-463F-8E63-D0FDDEA3539B"
+    },
+    {
+      "class": "text",
+      "id": "17B110DE-791A-4551-9BE2-6B66133532D0"
+    },
+    {
+      "class": "text",
+      "id": "8682C47E-70EB-4D52-BC47-9209D715820F"
+    }
+  ],
+  "name": "cholesterol",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "53D9573F-91A8-4D16-817B-344A3378C66F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
