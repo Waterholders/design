@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1D1EA9A8-8789-4183-91E2-55AE9ACA9D52",
+  "do_objectID": "11C32877-09D3-48A4-A773-3C3D8D96154D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,33 +15,34 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 65,
-    "x": 0,
-    "y": 0
+    "height": 136,
+    "width": 304,
+    "x": 8,
+    "y": 72
   },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Container",
-  "nameIsFixed": true,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
     {
-      "_class": "overrideValue",
-      "do_objectID": "423AA1FE-AA7A-413A-AF8F-407424B9FA54",
-      "overrideName": "24226101-A517-46C0-B0C7-E6536D3D59B5_layerStyle",
-      "value": "DFEA60DF-C437-4F5B-8E74-B0FEAF7CCE67"
+      "class": "group",
+      "id": "121E0084-CD88-4314-A20E-B2BE52043F93"
+    },
+    {
+      "class": "group",
+      "id": "753ADD00-472B-4622-A7CA-891445CB66D5"
     }
   ],
+  "name": "Messages",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -49,7 +50,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "A08403CE-8C9F-4116-8E1F-64610277029E",
-  "verticalSpacing": 0
+  }
 }

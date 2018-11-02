@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "121E0084-CD88-4314-A20E-B2BE52043F93",
+  "do_objectID": "C04F576C-C4D8-4E80-B45D-300EB60E24C2",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 52,
-    "width": 65,
-    "x": 247,
-    "y": 124
+    "height": 36,
+    "width": 88,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,18 +27,18 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "F4BFE796-82A6-441F-87C3-2E1A349766D4"
+      "class": "symbolInstance",
+      "id": "1D1EA9A8-8789-4183-91E2-55AE9ACA9D52"
     },
     {
-      "class": "group",
-      "id": "C04F576C-C4D8-4E80-B45D-300EB60E24C2"
+      "class": "text",
+      "id": "DF2A7916-1679-432A-8877-1DAF9302B8EE"
     }
   ],
-  "name": "Message--Me",
+  "name": "__Bubble",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

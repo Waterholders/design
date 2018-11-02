@@ -9,39 +9,40 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4313725490196079,
-            "green": 0.4313725490196079,
-            "red": 0.4313725490196079
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Nunito-Regular",
-              "size": 12
+              "size": 16
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 1,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
+            "alignment": 0,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 79,
         "location": 0
       }
     ],
-    "string": "sent"
+    "string": "From housing@university.edu: You have been assigned to Rowland Hall, room 212. "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F4BFE796-82A6-441F-87C3-2E1A349766D4",
+  "do_objectID": "BD0183EC-4299-4176-8ACC-FF60493B20AB",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "040A2FCD-27D5-4418-ACAF-85A086007DD1",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,12 +53,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 65,
-    "x": 0,
-    "y": 36
+    "do_objectID": "B177DDF3-F755-4BCA-9E9C-580C3D21CC93",
+    "height": 60,
+    "width": 243,
+    "x": 16,
+    "y": 8
   },
-  "glyphBounds": "{{42, 4}, {23, 9}}",
+  "glyphBounds": "{{0, 3}, {216, 54}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,16 +68,16 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "__Status",
+  "name": "__Content",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "5C969B7E-695A-4739-9A6F-3A9088549323",
+  "sharedStyleID": "F25EF490-6E53-4192-8FA5-EAB5A70A2C42",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B4B1641F-7DB0-415C-9206-3C6CFF4E42E0",
+    "do_objectID": "5F8FDCD9-EEE6-4784-88E9-92C74A5D497B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -85,23 +87,23 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4313725490196079,
-          "green": 0.4313725490196079,
-          "red": 0.4313725490196079
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Nunito-Regular",
-            "size": 12
+            "size": 16
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 1,
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16
+          "alignment": 0,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
         },
         "textStyleVerticalAlignmentKey": 0
       },

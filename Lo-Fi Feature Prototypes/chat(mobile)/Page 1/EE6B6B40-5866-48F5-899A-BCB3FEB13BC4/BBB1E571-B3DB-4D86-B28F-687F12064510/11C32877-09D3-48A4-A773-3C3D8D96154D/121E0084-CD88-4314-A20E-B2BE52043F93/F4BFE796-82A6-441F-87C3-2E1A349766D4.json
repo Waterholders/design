@@ -9,22 +9,23 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.4313725490196079,
+            "green": 0.4313725490196079,
+            "red": 0.4313725490196079
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Nunito-Regular",
-              "size": 16
+              "size": 12
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "maximumLineHeight": 20,
-            "minimumLineHeight": 20
+            "alignment": 1,
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -32,12 +33,12 @@
         "location": 0
       }
     ],
-    "string": "Hey!"
+    "string": "sent"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "DF2A7916-1679-432A-8877-1DAF9302B8EE",
+  "do_objectID": "F4BFE796-82A6-441F-87C3-2E1A349766D4",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
-    "width": 33,
-    "x": 16,
-    "y": 8
+    "height": 16,
+    "width": 77,
+    "x": 11,
+    "y": 36
   },
-  "glyphBounds": "{{1, 3}, {31, 15}}",
+  "glyphBounds": "{{54, 4}, {23, 9}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,16 +66,16 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "__Content",
+  "name": "__Status",
   "nameIsFixed": true,
-  "resizingConstraint": 42,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "BEB72E6F-7CE8-43AD-BE8F-16EDA60DBD29",
+  "sharedStyleID": "5C969B7E-695A-4739-9A6F-3A9088549323",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "476F4D12-1696-4B09-863B-1F0554C2EC98",
+    "do_objectID": "B4B1641F-7DB0-415C-9206-3C6CFF4E42E0",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -84,22 +85,23 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.4313725490196079,
+          "green": 0.4313725490196079,
+          "red": 0.4313725490196079
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Nunito-Regular",
-            "size": 16
+            "size": 12
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "maximumLineHeight": 20,
-          "minimumLineHeight": 20
+          "alignment": 1,
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
         },
         "textStyleVerticalAlignmentKey": 0
       },
