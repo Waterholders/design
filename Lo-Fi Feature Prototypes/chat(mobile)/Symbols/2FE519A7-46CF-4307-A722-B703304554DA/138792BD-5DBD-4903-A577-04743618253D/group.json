@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "138792BD-5DBD-4903-A577-04743618253D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D8BC4446-BAC9-4220-915F-32FD328688F4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B7267BE1-E20D-4F1B-8DAB-5332002B6C64",
+    "height": 64,
+    "width": 304,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "82E2CBEC-015C-4665-A11A-6B9FC0C56B08"
+    },
+    {
+      "class": "text",
+      "id": "7B9B8DF1-0984-4D70-A8D9-9E014FC1B2DF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9EEC2A4E-E8D7-4073-BC26-CA1626523FEA"
+    }
+  ],
+  "name": "Conversation",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "322FFE01-2831-4D61-A1C8-C1EEEF06E3F6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
