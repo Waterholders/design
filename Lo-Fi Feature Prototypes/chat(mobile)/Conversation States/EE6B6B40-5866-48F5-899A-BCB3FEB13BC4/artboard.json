@@ -44,7 +44,7 @@
   "isFlowHome": true,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -61,6 +61,10 @@
     {
       "class": "MSImmutableHotspotLayer",
       "id": "C5C6ED77-2A0D-46F0-8B19-9AFB89D656AA"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "063DB0BF-01E6-4E42-89B8-F17BA0818309"
     }
   ],
   "name": "Conversation (Ideal State)",
