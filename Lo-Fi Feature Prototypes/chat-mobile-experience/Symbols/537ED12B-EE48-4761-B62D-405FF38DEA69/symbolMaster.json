@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 5,
   "clippingMaskMode": 0,
   "do_objectID": "537ED12B-EE48-4761-B62D-405FF38DEA69",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 156
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,8 +53,8 @@
       "id": "066C4861-FB24-47D2-9451-C0F1349B869F"
     }
   ],
-  "name": "Message__Time",
-  "nameIsFixed": false,
+  "name": "Conversation__Time",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
