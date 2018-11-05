@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A96515D9-BE95-4AA0-B4CC-E565C2B76028",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "097F427C-A891-4658-BAE9-483CF950E964",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D8107720-E538-4D47-8335-BBF0B496A3FA",
+    "height": 136,
+    "width": 271,
+    "x": 327,
+    "y": 60
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EF01B437-0EAB-4F00-982B-2C847A624546"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "712EEF9F-1E98-463B-9484-443C265A0642"
+    },
+    {
+      "class": "oval",
+      "id": "7FD821FF-E1D3-4049-8C78-1CD169794EA5"
+    },
+    {
+      "class": "text",
+      "id": "EF50CBB9-5BA0-40B2-9790-BFF97E21F1E2"
+    }
+  ],
+  "name": "Group Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "B406A2BD-DFF8-4475-BD53-E5E5DA56A7F7",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "4B754D05-6703-48A0-AC2D-EEB7A769EBA6",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.29166666666667,
+      "saturation": 1,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1.129166666666667
+      }
+    ],
+    "do_objectID": "FD7D8E6F-D77E-47C1-A2E8-325AF0746EFB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  }
+}

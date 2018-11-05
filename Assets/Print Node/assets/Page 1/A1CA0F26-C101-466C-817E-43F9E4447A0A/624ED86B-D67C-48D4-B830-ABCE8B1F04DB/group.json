@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "624ED86B-D67C-48D4-B830-ABCE8B1F04DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F251DE18-8974-4B5B-8C0A-96E0C5A54AEA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B34C1FD3-DAB5-46A8-8C9D-D8AA3721FD4E",
+    "height": 119,
+    "width": 238,
+    "x": 9,
+    "y": 69
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E563873E-AAF0-4984-8730-3334C4FEBE5B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2D1A0059-D076-42B5-8A71-12CEC15C4DEB"
+    },
+    {
+      "class": "oval",
+      "id": "C63113DE-25CF-424D-A03D-1E25EF977687"
+    },
+    {
+      "class": "text",
+      "id": "69EB0852-D188-4DB4-81A7-77207A45A47E"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "B406A2BD-DFF8-4475-BD53-E5E5DA56A7F7",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C7542E29-F8E1-45E6-AA24-CE8B3451364A",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.29166666666667,
+      "saturation": 1,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1.129166666666667
+      }
+    ],
+    "do_objectID": "BD3ECF76-EAA5-46DB-B3C7-4688B7491553",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  }
+}
