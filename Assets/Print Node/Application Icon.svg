@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Application Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="26.3868171%" y1="37.1937575%" x2="57.9393554%" y2="138.73977%" id="linearGradient-1">
+            <stop stop-color="#31A6FF" offset="0%"></stop>
+            <stop stop-color="#166DFF" offset="100%"></stop>
+        </linearGradient>
+        <ellipse id="path-2" cx="16.5038062" cy="16.0036909" rx="16.5038062" ry="16.0036909"></ellipse>
+        <linearGradient x1="24.3947622%" y1="-9.94495519%" x2="67.2175965%" y2="115.217637%" id="linearGradient-4">
+            <stop stop-color="#F46E8C" offset="0%"></stop>
+            <stop stop-color="#D61C35" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Application-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(9.000000, 69.000000)">
+            <path d="M152.032355,24.3174059 C147.791726,27.8952521 145.098112,33.2488238 145.098112,39.2315227 C145.098112,50.0035596 153.830574,58.7360209 164.602611,58.7360209 C175.300375,58.7360209 183.986592,50.1235649 184.105866,39.4540488 L197.545559,39.4540488 C219.365839,39.4540488 237.054671,57.1428807 237.054671,78.9631607 C237.054671,100.783441 219.365839,118.472273 197.545559,118.472273 L39.5091119,118.472273 C17.6888319,118.472273 1.68830683e-14,100.783441 1.42108547e-14,78.9631607 C1.15386411e-14,57.1428807 17.6888319,39.4540488 39.5091119,39.4540488 L43.8646144,39.4540488 C47.3626381,17.2170636 71.5841761,0 100.943992,0 C123.174419,0 142.459025,9.87070283 152.032355,24.3174059 Z" id="Combined-Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+            <g id="container/circle" transform="translate(148.376569, 23.899582)">
+                <ellipse id="Shadow" fill-rule="nonzero" cx="16.5038062" cy="16.0036909" rx="16.5038062" ry="16.0036909"></ellipse>
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Background-Color" fill="#EE7F8E" fill-rule="nonzero" xlink:href="#path-2"></use>
+                <ellipse id="Border" fill-rule="nonzero" mask="url(#mask-3)" cx="16.5038062" cy="16.0036909" rx="16.5038062" ry="16.0036909"></ellipse>
+            </g>
+            <ellipse id="Oval" fill="url(#linearGradient-4)" fill-rule="nonzero" cx="164.807531" cy="39.832636" rx="16.4309623" ry="15.9330544"></ellipse>
+        </g>
+    </g>
+</svg>
